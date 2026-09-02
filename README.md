@@ -16,19 +16,21 @@ Mi formación incluye proyectos relacionados con el desarrollo de sistemas, apli
 
 ¡Este perfil representa mi proceso de aprendizaje y crecimiento en el mundo de la Ingeniería de Sistemas e Informática! 🚀
 
-## ¡Echa un vistazo a mis Proyectos! 🚀
+## 🚀 ¡Echa un vistazo a mis proyectos!
 
-📚 A través de mis repositorios podrás conocer algunos de los proyectos y tecnologías en los que he trabajado:
+A través de mis repositorios podrás conocer algunos de los proyectos académicos en los que he participado y las tecnologías que he aplicado:
 
-- 🥗 **NutriVida – Prevención de la Anemia** - Aplicación orientada al control nutricional y la prevención de la anemia mediante el registro de estudiantes, alimentos consumidos, información nutricional y análisis hematológicos.
+- 🏢 **[Servindustria – Sistema Web de Gestión de Inventarios y Servicios](https://github.com/MoralesDominguezJansSnider/Proyecto-Servindustria.git)**  
+  Aplicación web Full Stack para la gestión de inventarios, productos, usuarios, personal, capacitaciones, ventas y servicios, desarrollada con React, Spring Boot, JWT y SQL Server.
 
-- 💻 **Aplicaciones Web Full Stack** - Desarrollo de aplicaciones web utilizando tecnologías como React para el Frontend y Spring Boot para el Backend.
+- ✈️ **[Aerolínea LATAM – Sistema de Administración de Vuelos](https://github.com/MoralesDominguezJansSnider/Proyecto-Aerol-nea-Latam.git)**  
+  Sistema para la gestión de pasajeros, pilotos, tripulación, vuelos, servicios personalizados y reportes, desarrollado con Java y SQL Server.
 
-- 🗄️ **Proyectos de Bases de Datos** - Diseño, implementación y gestión de bases de datos relacionales utilizando SQL Server y MySQL.
+- 🏫 **[Sistema de Gestión para el Colegio Pamer](https://github.com/MoralesDominguezJansSnider/Sistema-de-Gestion-Colegio-Pamer.git)**  
+  Sistema académico desarrollado en Java para gestionar alumnos, profesores, cursos, horarios, matrículas y salones, aplicando MVC y estructuras de datos como listas, colas, pilas y árboles.
 
-- 📊 **Análisis y Procesamiento de Datos** - Desarrollo de soluciones para procesar, organizar y visualizar información utilizando Python, Pandas y herramientas de análisis de datos.
-
-- 🏗️ **Análisis y Diseño de Sistemas** - Desarrollo de proyectos académicos relacionados con el análisis, diseño y construcción de sistemas de información.
+- 💻 **[Taller Web UTP](https://github.com/MoralesDominguezJansSnider/Proyecto-Web-UTP.git)**  
+  Aplicación web Full Stack inspirada en la plataforma de la UTP, desarrollada utilizando HTML, CSS, JavaScript y Node.js, con funcionalidades de inicio de sesión, perfil de usuario y página principal.
 
 #### Algunos aspectos destacados de mis proyectos incluyen:
 
